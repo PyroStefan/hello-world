@@ -2,4 +2,4 @@
 
 I'm Stefan
 
-Finally learning what github is al about!
+Finally learning what github is all about!
